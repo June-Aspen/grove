@@ -2,8 +2,6 @@
 
 A starting set of instruction files, skills and hooks for building a product with AI coding agents (Claude Code, Codex and similar), including several agents at once and on more than one machine.
 
-An aspen grove is one root system with many trunks. This kit works the same way: many agent sessions, one set of rules.
-
 ## What is here
 
 | Path | Purpose | When an agent sees it |
